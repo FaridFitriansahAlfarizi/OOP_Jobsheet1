@@ -7,7 +7,7 @@ Kelas: 2F
 
 # PERCOBAAN 1
 
-<img src="img/Percobaan1.png" alt="Gambar Class Sepeda">
+<img src="img/ClassSepeda.png" alt="Gambar Class Sepeda">
 
 # PERTANYAAN
 
