@@ -1,9 +1,13 @@
 # LAPORAN PRAKTIKUM OOP JOBSHEET 1
 
-Nama: Farid Fitriansah Alfarizi
-NIM: 2241720055
-Absen: 12
-Kelas: 2F
+- Nama: Farid Fitriansah Alfarizi
+- NIM: 2241720055
+- Absen: 12
+- Kelas: 2F
+
+# PERCOBAAN 1
+
+<img src="img/Percobaan1.png">
 
 # PERTANYAAN
 
