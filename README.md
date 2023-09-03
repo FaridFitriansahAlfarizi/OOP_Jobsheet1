@@ -7,7 +7,25 @@ Kelas: 2F
 
 # PERCOBAAN 1
 
-<img src="img/ClassSepeda.png" alt="Gambar Class Sepeda">
+Class Sepeda <br>
+<img src="img/ClassSepeda.png" alt="Gambar Class Sepeda"> <br>
+
+Class SepedaDemo <br>
+<img src="img/ClassSepedaDemoP1.png" alt="Gambar Class SepedaDemo"> <br>
+
+Hasil Run Kode Program <br>
+<img src="img/HasilRunP1.png" alt="Gambar Hasil Run Kode Program"> <br>
+
+# PERCOBAAN 2
+
+Class SepedaGunung <br>
+<img src="img/ClassSepedaGunung.png" alt="Gambar Class SepedaGunung"> <br>
+
+Class SepedaDemo <br>
+<img src="img/ClassSepedaDemoP2.png" alt="Gambar Class SepedaDemo"> <br>
+
+Hasil Run Kode Program <br>
+<img src="img/HasilRunP2.png" alt="Gambar Hasil Run Kode Program"> <br>
 
 # PERTANYAAN
 
