@@ -3,7 +3,7 @@
 Nama: Farid Fitriansah Alfarizi <br>
 NIM: 2241720055 <br>
 Absen: 12 <br>
-Kelas: 2F
+Kelas: 2F <br>
 
 # PERCOBAAN 1
 
@@ -43,3 +43,19 @@ Hasil Run Kode Program <br>
 5. Pada class SepedaGunung, jelaskan alasan atribut merk, kecepatan, dan gear tidak lagi ditulis di
    dalam class tersebut!
    - Dikarenakan atribut - atribut tersebut sudah diturunkan / diwariskan dari class Sepeda ke class SepedaGunung, sehingga class SepedaGunung bisa mengakses atribut - atribut yang berada pada class Sepeda tanpa harus menuliskan ulang.
+
+# TUGAS PRAKTIKUM
+
+Foto 4 buah objek di sekitar kalian dengan 2 objek di antaranya merupakan objek yang mengandung konsep pewarisan (inheritance). <br>
+
+1. Gambar Buku Sapiens
+   <img src="img/BukuSapiens.jpeg" alt="Gambar Buku Sapiens"> <br>
+
+2. Gambar Mawar Biru
+   <img src="img/MawarBiru.jpg" alt="Gambar Mawar Biru"> <br>
+
+3. Gambar Mobil Bensin
+   <img src="img/MobilSupra.jpg" alt="Gambar Mobil Bensin"> <br>
+
+4. Gambar Mobil Listrik
+   <img src="img/MobilTesla.jpg" alt="Gambar Mobil Listrik"> <br>
